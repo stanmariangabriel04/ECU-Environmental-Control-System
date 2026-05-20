@@ -1,4 +1,4 @@
-# Environmental Control Unit (ECU) with HMI
+# Smart Home
 
 ## About the Project
 This project implements a microcontroller-based Environmental Control Unit (ECU) designed to monitor ambient conditions and manage automated responses. It features a custom Human-Machine Interface (HMI) displayed on an I2C LCD, allowing the user to browse and edit system parameters through a tactile button menu. 
